@@ -1,0 +1,5 @@
+{
+  "name": "German Reading Comprehension Quiz",
+  "description": "An interactive web application to practice German reading skills by matching headlines to corresponding texts. Users can select answers, get immediate feedback, and review the correct solutions.",
+  "requestFramePermissions": []
+}
